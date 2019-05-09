@@ -1,0 +1,7 @@
+C:\Users\lisaa\source\repos\Abstract Rock Paper Scissors\Abstract Rock Paper Scissors\bin\Debug\Abstract Rock Paper Scissors.exe.config
+C:\Users\lisaa\source\repos\Abstract Rock Paper Scissors\Abstract Rock Paper Scissors\bin\Debug\Abstract Rock Paper Scissors.exe
+C:\Users\lisaa\source\repos\Abstract Rock Paper Scissors\Abstract Rock Paper Scissors\bin\Debug\Abstract Rock Paper Scissors.pdb
+C:\Users\lisaa\source\repos\Abstract Rock Paper Scissors\Abstract Rock Paper Scissors\obj\Debug\Abstract Rock Paper Scissors.csprojAssemblyReference.cache
+C:\Users\lisaa\source\repos\Abstract Rock Paper Scissors\Abstract Rock Paper Scissors\obj\Debug\Abstract Rock Paper Scissors.csproj.CoreCompileInputs.cache
+C:\Users\lisaa\source\repos\Abstract Rock Paper Scissors\Abstract Rock Paper Scissors\obj\Debug\Abstract Rock Paper Scissors.exe
+C:\Users\lisaa\source\repos\Abstract Rock Paper Scissors\Abstract Rock Paper Scissors\obj\Debug\Abstract Rock Paper Scissors.pdb
